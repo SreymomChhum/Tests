@@ -1,0 +1,19 @@
+{
+    "name": "sreymom/test",
+    "description": "php library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sreymom\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SreymomChhum",
+            "email": "momkpc310@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
