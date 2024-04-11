@@ -1,6 +1,6 @@
 <?php
 
-namespace Sreymom\MyLib;
+namespace Sreymom\Test;
 
 class ValidationException extends \Exception
 {
